@@ -34,4 +34,4 @@ andy.lu@apps.ask.com
 hessvacio.hassan@apps.ask.com
  
 ## License 
-© 2019 Mindspark Interactive Network, Inc. an IAC Company. All rights reserved
+This is released under the MIT license (https://opensource.org/licenses/MIT)
