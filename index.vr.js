@@ -18,9 +18,9 @@ export default class MovieTheater extends Component {
     // The video prop takes a string that will change the video playing. You can choose from the videos inside of the static_assets (files ending in .mp4) folder.
     return (
       <View>
-        <Pano source={asset('Enterance2.jpg')}/>
+        <Pano source={asset('Movies.jpg')}/>
         {/* Add Props to the VideoElement like this: <VideoElement transform={[5.0, -0.3, -9]} video={'A_Movie_From_Static_Assets.mp4'} /> */}
-        <VideoElement />
+        <VideoElement transform={[0.6, -3.3, -19]} video={'bit_awards_2017_opening.mp4'} />
       </View>
     );
   }
