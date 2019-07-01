@@ -13,7 +13,7 @@ Use the tools like Pano and transform, you have learned from the lesson to move 
 * (Optional) Git - [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Setup instructions:
-* Download the following zip file: https://github.com/andylu821/tech-classes-session-4/archive/master.zip or use git to checkout this repo
+* Download the following zip file: https://github.com/andylu821/tech-classes-session-4/archive/develop.zip or use git to checkout this repo
 * Run `npm install react-vr-cli`
 * Run `npm install`
 * Run `npm start`
