@@ -32,7 +32,8 @@ Use the tools like Pano and transform, you have learned from the lesson to move 
 
 ## Contributing 
 andy.lu@apps.ask.com 
-hessvacio.hassan@apps.ask.com
+yang.he@askapplications.com
+alex.liang@askapplications.com
  
 ## License 
 This is released under the MIT license (https://opensource.org/licenses/MIT)
